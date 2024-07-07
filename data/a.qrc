@@ -1,0 +1,13 @@
+<RCC>
+  <qresource>
+    <file>area.png</file>
+    <file>enter_bg.png</file>
+    <file>area2_bg.png</file>
+    <file>input_bg.png</file>
+    <file>login_bg.png</file>
+    <file>first_bg.png</file>
+    <file>area1_bg.png</file>
+    <file>first_button.png</file>
+    <file>main_bg.png</file>
+  </qresource>
+</RCC>
